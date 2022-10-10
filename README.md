@@ -6,4 +6,4 @@
 ![image info](./Images/screenshot1.jpg)
 
 ## Screenshot 2 Transaction Page
-![image info](./Images/screenshot2.jpg)
+![image info](./Images/Screenshot2.jpg)
